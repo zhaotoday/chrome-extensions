@@ -10,4 +10,5 @@
 [划词翻译](https://chrome.google.com/webstore/detail/划词翻译/ikhdkkncnoglghljlkmcimlnlhkeamad)  
 翻译工具。
 
-[Prism Pretty](https://chrome.google.com/webstore/detail/prism-pretty/hjjcdjnncffbbhlglkipjhljmocnehim)   语法高亮在浏页面新窗口打开的HTML, CSS, JS。
+[Prism Pretty](https://chrome.google.com/webstore/detail/prism-pretty/hjjcdjnncffbbhlglkipjhljmocnehim)  
+语法高亮在浏页面新窗口打开的HTML, CSS, JS。
