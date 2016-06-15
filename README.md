@@ -12,3 +12,6 @@
 
 [Prism Pretty](https://chrome.google.com/webstore/detail/prism-pretty/hjjcdjnncffbbhlglkipjhljmocnehim)  
 语法高亮在浏页面新窗口打开的HTML, CSS, JS。
+
+[github awesome autocomple](https://chrome.google.com/webstore/detail/github-awesome-autocomple/djkfdjpoelphhdclfjhnffmnlnoknfnd/related)  
+github 搜索自动完成。
