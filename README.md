@@ -34,4 +34,8 @@ github 搜索自动完成。
 
 [WEB前端助手](https://chrome.google.com/webstore/detail/web%E5%89%8D%E7%AB%AF%E5%8A%A9%E6%89%8Bfehelper/pkgccpejnmalmdinmhkkfafefagiiiad?utm_source=chrome-app-launcher-info-dialog)
 
+[CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce)
+
+
+
 
