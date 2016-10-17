@@ -22,4 +22,6 @@ github 搜索自动完成。
 
 [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 
+[页面自动刷新](https://chrome.google.com/webstore/detail/auto-refresh-page/edbmfligbmlgmfbbhoamolndhjffanka)
 
+[PerfectPixel by WellDoneCode](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
