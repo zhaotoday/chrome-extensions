@@ -1,3 +1,9 @@
+## 参考网址
+
+http://www.w3ctrain.com/2016/10/16/my-chrome-extension/
+
+## 扩展列表
+
 [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  
 查看 github 代码。  
 
