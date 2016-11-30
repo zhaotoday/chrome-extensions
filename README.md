@@ -3,6 +3,7 @@
 http://www.w3ctrain.com/2016/10/16/my-chrome-extension/
 
 ## 扩展列表
+[PerfectPixel - 设计稿像素比对](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?utm_source=chrome-app-launcher-info-dialog)  
 [Aweb - 前端框架搜索引擎](https://chrome.google.com/webstore/detail/aweb/idddhnefeeajhnndkpgganlncgeajiao?utm_source=chrome-app-launcher-info-dialog)  
 [一键禁用所有扩展-加强版](https://chrome.google.com/webstore/detail/%E4%B8%80%E9%94%AE%E7%AE%A1%E7%90%86%E6%89%80%E6%9C%89%E6%89%A9%E5%B1%95/niemebbfnfbjfojajlmnbiikmcpjkkja?utm_source=chrome-app-launcher-info-dialog)  
 [页面自动刷新](https://chrome.google.com/webstore/detail/auto-refresh-page/edbmfligbmlgmfbbhoamolndhjffanka?utm_source=chrome-app-launcher-info-dialog)  
