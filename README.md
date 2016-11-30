@@ -3,7 +3,8 @@
 http://www.w3ctrain.com/2016/10/16/my-chrome-extension/
 
 ## 扩展列表
-
+[OneTab - 一键释放Chrome标签页内存](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-app-launcher-info-dialog)  
+[Save to Pocket - 保存文章、视频等的最佳方式](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj?utm_source=chrome-app-launcher-info-dialog)  
 [Octotree - 查看 github 代码](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)  
 [Visual Event - 查看用 jQuery 绑定的事件处理代码](https://chrome.google.com/webstore/detail/visual-event/pbmmieigblcbldgdokdjpioljjninaim)   
 [Gestures for Google Chrome - 鼠标手势](https://chrome.google.com/webstore/detail/gestures-for-google-chrom/jpkfjicglakibpenojifdiepckckakgk)  
